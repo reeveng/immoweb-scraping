@@ -1,0 +1,128 @@
+{
+  "id": 10514908,
+  "cluster": {
+    "minPrice": null,
+    "maxPrice": null,
+    "minRoom": null,
+    "maxRoom": null,
+    "minSurface": null,
+    "maxSurface": null,
+    "projectInfo": null,
+    "bedroomRange": "",
+    "surfaceRange": ""
+  },
+  "customerLogoUrl": "https://static.immoweb.be/logos/619531.gif?cache=2023121004200",
+  "customerName": "Penim SRL",
+  "flags": {
+    "main": "new",
+    "secondary": ["life_annuity"],
+    "percentSold": null
+  },
+  "media": {
+    "pictures": [
+      {
+        "smallUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_5.gif?cache=20230419113348",
+        "mediumUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/M_10514908_5.jpg?cache=20230419113348",
+        "largeUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_5.jpg?cache=20230419113348",
+        "isVertical": false
+      },
+      {
+        "smallUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_4.gif?cache=20230419113348",
+        "mediumUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/M_10514908_4.jpg?cache=20230419113348",
+        "largeUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_4.jpg?cache=20230419113348",
+        "isVertical": false
+      },
+      {
+        "smallUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_2.gif?cache=20230419113348",
+        "mediumUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/M_10514908_2.jpg?cache=20230419113348",
+        "largeUrl": "https://static.immoweb.be/photos/1/0/5/1/4/9/0/8/10514908_2.jpg?cache=20230419113348",
+        "isVertical": false
+      }
+    ]
+  },
+  "property": {
+    "type": "APARTMENT",
+    "subtype": "APARTMENT",
+    "title": null,
+    "bedroomCount": 1,
+    "location": {
+      "country": "België",
+      "region": "Wallonïe",
+      "province": "Luik",
+      "district": "Luik",
+      "locality": "Liège",
+      "postalCode": "4000",
+      "street": "Place des Déportés",
+      "number": null,
+      "box": null,
+      "propertyName": null,
+      "floor": 2,
+      "latitude": 50.6476021,
+      "longitude": 5.5852021,
+      "distance": null,
+      "approximated": null,
+      "regionCode": "WALLONIE",
+      "type": null,
+      "hasSeaView": null,
+      "pointsOfInterest": null,
+      "placeName": null
+    },
+    "netHabitableSurface": 69,
+    "landSurface": null,
+    "roomCount": null
+  },
+  "publication": {
+    "publisherId": null,
+    "visualisationOption": "XL",
+    "size": "xl"
+  },
+  "transaction": {
+    "certificateLogoUrl": "https://static.immoweb.be/pics/peb/peb_g.png",
+    "certificate": "G",
+    "type": "FOR_SALE",
+    "rental": null,
+    "sale": {
+      "lifeAnnuity": {
+        "lumpSum": 50000,
+        "monthlyAmount": 605,
+        "estimatedPropertyValue": null,
+        "isIndexed": null,
+        "isJointAndSurvivorContract": null,
+        "isBareOwnership": null,
+        "contractMaximumDurationDescription": null,
+        "annuitantCount": null,
+        "annuitantAges": null
+      },
+      "hasStartingPrice": false,
+      "oldPrice": null,
+      "price": null,
+      "pricePerSqm": null,
+      "publicSale": null,
+      "toBuild": null,
+      "isSubjectToVat": null
+    }
+  },
+  "priceType": null,
+  "price": {
+    "type": "annuity_monthly_amount",
+    "mainValue": 50000,
+    "alternativeValue": null,
+    "additionalValue": 605,
+    "oldValue": null,
+    "minRangeValue": null,
+    "maxRangeValue": null,
+    "mainDisplayPrice": "€a050.000 + €a0605/maand",
+    "HTMLDisplayPrice": "<span aria-hidden='true'>€a050.000 + €a0605/maand</span>",
+    "alternativeDisplayPrice": "",
+    "oldDisplayPrice": null,
+    "shortDisplayPrice": "€&nbsp;50K",
+    "accessibilityPrice": "50000€ + 605€ per maand",
+    "label": "Boeket / Maandelijks rente",
+    "date": null,
+    "language": "nl"
+  },
+  "isBookmarked": false,
+  "has360Tour": null,
+  "hasVirtualTour": null,
+  "advertisementId": null
+}
